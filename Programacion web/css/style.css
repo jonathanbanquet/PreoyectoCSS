@@ -1,0 +1,50 @@
+
+:root{
+    --azul: blue;
+}
+
+
+h1 {
+    color: var(--azul)
+    
+}
+body{
+    background-color: wheat;
+    margin: calc(background-color);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+/* yo */
+.configuracionP{
+    color: green;
+}
+.configuracionP2{
+
+color: red;
+}
+ .configuracionP3{
+
+color: yellow;
+
+ }
+
+ .flex-container{
+display: flex;
+justify-content: center;
+
+
+ }
+.flex-containerVertical{
+display: flex;
+flex-direction: column;
+align-items: center;
+
+}
+
+
+
+
+ .colorDivPadre{
+
+    background-color: #3f737a;
+    
+ }
